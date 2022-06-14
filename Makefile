@@ -1,9 +1,9 @@
 cart:
- @bash components/cart.sh
+ bash components/cart.sh
 
 catalogue:
-  @bash components/catalogue.sh
+ bash components/catalogue.sh
 
 frontend:
- @bash components/frontend.sh
+ bash components/frontend.sh
 
